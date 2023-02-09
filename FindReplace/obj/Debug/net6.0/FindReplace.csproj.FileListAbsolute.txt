@@ -1,0 +1,15 @@
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\bin\Debug\net6.0\FindReplace.deps.json
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\bin\Debug\net6.0\FindReplace.dll
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\bin\Debug\net6.0\FindReplace.pdb
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.csproj.AssemblyReference.cache
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.AssemblyInfoInputs.cache
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.AssemblyInfo.cs
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.csproj.CoreCompileInputs.cache
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.dll
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\refint\FindReplace.dll
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.pdb
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\ref\FindReplace.dll
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\bin\Debug\net6.0\FindReplace.exe
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\bin\Debug\net6.0\FindReplace.runtimeconfig.json
+C:\Users\nsnco\OneDrive\Desktop\FindAndReplace.Solution\FindReplace\obj\Debug\net6.0\FindReplace.genruntimeconfig.cache
